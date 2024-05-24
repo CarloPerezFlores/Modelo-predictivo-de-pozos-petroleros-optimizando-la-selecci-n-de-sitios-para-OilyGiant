@@ -18,7 +18,7 @@ El proyecto consiste en emplear análisis de datos y técnicas de machine learni
 
 **<span style="font-size:20px; font-weight:bold;">Requisitos</span>**
 
-## Python 3
+### Python 3
 ## Jupyter Notebook
 ## Pandas
 ## NumPy
