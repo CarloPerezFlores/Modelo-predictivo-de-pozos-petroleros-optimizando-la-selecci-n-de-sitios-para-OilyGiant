@@ -16,20 +16,23 @@ El proyecto consiste en emplear análisis de datos y técnicas de machine learni
 
 -calculadora_beneficio_riesgo.ipynb: Jupyter Notebook con el cálculo del beneficio potencial y el riesgo de pérdidas, y la selección de la región óptima.
 
+
 **<span style="font-size:20px; font-weight:bold;">Requisitos</span>**
 
-#### Python 3
-#### Jupyter Notebook
-#### Pandas
-#### NumPy
-#### Matplotlib
-#### Seaborn
-#### Plotly
-#### scikit-learn
+##### Python 3
+#####  Jupyter Notebook
+#####  Pandas
+#####  NumPy
+#####  Matplotlib
+#####  Seaborn
+#####  Plotly
+#####  scikit-learn
+
 
 **<span style="font-size:20px; font-weight:bold;">Preparación de datos:</span>**
 
 Se descargarán y prepararán los datos de exploración geológica de las tres regiones (geo_data_0.csv, geo_data_1.csv, geo_data_2.csv). Esto incluirá la limpieza de datos y la comprensión de las características relevantes.
+
 
 **<span style="font-size:20px; font-weight:bold;">Entrenamiento y evaluación del modelo:</span>**
 
@@ -37,15 +40,18 @@ Para cada región, se dividirán los datos en conjuntos de entrenamiento y valid
 Se utilizará regresión lineal para entrenar un modelo que prediga el volumen de reservas en los nuevos pozos.
 Se evaluará el modelo utilizando métricas como el RMSE (Error Cuadrático Medio) y el volumen medio de reservas predicho.
 
+
 **<span style="font-size:20px; font-weight:bold;">Preparación para el cálculo de ganancias:</span>**
 
 Se almacenarán los valores necesarios para los cálculos en variables separadas.
 Se comparará el valor medio de reservas predicho con el umbral necesario para evitar pérdidas.
 
+
 **<span style="font-size:20px; font-weight:bold;">Cálculo de ganancias para la selección de pozos petroleros:</span>**
 
 Se seleccionarán los 200 pozos con los valores de predicción más altos para cada región.
 Se calculará la ganancia potencial de estos 200 pozos principales para cada región.
+
 
 **<span style="font-size:20px; font-weight:bold;">Cálculo de riesgos y ganancias para cada región:</span>**
 
