@@ -18,14 +18,14 @@ El proyecto consiste en emplear análisis de datos y técnicas de machine learni
 
 **<span style="font-size:20px; font-weight:bold;">Requisitos</span>**
 
-Python 3
-Jupyter Notebook
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Plotly
-scikit-learn
+## Python 3
+## Jupyter Notebook
+## Pandas
+## NumPy
+## Matplotlib
+## Seaborn
+## Plotly
+## scikit-learn
 
 **<span style="font-size:20px; font-weight:bold;">Preparación de datos:</span>**
 
