@@ -2,19 +2,19 @@
 En este proyecto se utiliza análisis de datos y técnicas de machine learning para seleccionar las mejores ubicaciones para abrir 200 nuevos pozos petroleros en tres regiones diferentes.
 
 
-**<span style="font-size:20px; font-weight:bold;"> Descripción</span>**
+**<span style="font-size:20px; font-weight:bold;">Descripción</span>**
 
 El proyecto consiste en emplear análisis de datos y técnicas de machine learning para evaluar y comparar diferentes ubicaciones en tres regiones para la apertura de nuevos pozos petroleros. Se utilizan modelos de regresión lineal para predecir el volumen de reservas en cada ubicación, y se calcula el beneficio potencial y el riesgo de pérdidas para cada región. La región seleccionada será aquella con el mayor beneficio promedio y un riesgo de pérdidas inferior al 2.5%.
 
 **<span style="font-size:20px; font-weight:bold;">Contenido</span>**
 
-datos_region1.csv, datos_region2.csv, datos_region3.csv: Archivos CSV que contienen los datos de las tres regiones.
+-datos_region1.csv, datos_region2.csv, datos_region3.csv: Archivos CSV que contienen los datos de las tres regiones.
 
-analisis_exploratorio.ipynb: Jupyter Notebook con el análisis exploratorio de datos.
+-analisis_exploratorio.ipynb: Jupyter Notebook con el análisis exploratorio de datos.
 
-modelo_regresion_lineal.ipynb: Jupyter Notebook con el entrenamiento del modelo de regresión lineal y la evaluación del mismo.
+-modelo_regresion_lineal.ipynb: Jupyter Notebook con el entrenamiento del modelo de regresión lineal y la evaluación del mismo.
 
-calculadora_beneficio_riesgo.ipynb: Jupyter Notebook con el cálculo del beneficio potencial y el riesgo de pérdidas, y la selección de la región óptima.
+-calculadora_beneficio_riesgo.ipynb: Jupyter Notebook con el cálculo del beneficio potencial y el riesgo de pérdidas, y la selección de la región óptima.
 
 **<span style="font-size:20px; font-weight:bold;">Requisitos</span>**
 
