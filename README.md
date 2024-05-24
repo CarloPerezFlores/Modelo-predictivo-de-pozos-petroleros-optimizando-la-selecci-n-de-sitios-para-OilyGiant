@@ -1,7 +1,7 @@
 # Modelo-predictivo-de-pozos-petroleros-optimizando-la-selección-de-sitios-para-OilyGiant
 En este proyecto se utiliza análisis de datos y técnicas de machine learning para seleccionar las mejores ubicaciones para abrir 200 nuevos pozos petroleros en tres regiones diferentes.
 
-<span style="font-size:20px; font-weight:bold;"> Descripción</span>
+**<span style="font-size:20px; font-weight:bold;"> Descripción</span>**
 El proyecto consiste en emplear análisis de datos y técnicas de machine learning para evaluar y comparar diferentes ubicaciones en tres regiones para la apertura de nuevos pozos petroleros. Se utilizan modelos de regresión lineal para predecir el volumen de reservas en cada ubicación, y se calcula el beneficio potencial y el riesgo de pérdidas para cada región. La región seleccionada será aquella con el mayor beneficio promedio y un riesgo de pérdidas inferior al 2.5%.
 
 <span style="font-size:20px; font-weight:bold;">Contenido</span>
